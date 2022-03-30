@@ -36,12 +36,13 @@ Note: The last line must have 0 spaces in it.
 6 
 
 # Sample Output
-      #\
-     ##\
-    ###\
-   ####\
-  #####\
- ######\
-
+The output is:\
+     #\
+    ##\
+   ###\
+  ####\
+ #####\
+######\
+...
 # Explanation
 The staircase is right-aligned, composed of # symbols and spaces, and has a height and width of n=6.
