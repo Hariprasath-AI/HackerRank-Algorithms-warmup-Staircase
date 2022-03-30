@@ -4,7 +4,7 @@
 # This means that how many spaces We have to allot infront of the letter '#'. eg: n = 6, at the start of for loop i = 1, space_limit = 6-1 = 5.
 # The value 5 is multiplied with the string 'space' and 5 spaces will be stored in variable 'solution'
 # Next, i multiplied with hash. This means that how many hash to print in the line stored in the variable hash_limit.
-# Just add those two variable and print. We will get right aligned staicase shaped output.  
+# Just add those two Strings and print. We will get right aligned staicase shaped output.  
 
 def Staircase(n):
     space = ' '
